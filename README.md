@@ -42,10 +42,10 @@ Setup content type and create few entries
 #### Explore API
 ###### SmilgaReact Apps Key
 Space ID:
- uajx13ynmdqq
+ 
 
 Access Token:
- vZ9FqHU_gfbLo32QNngGGcljwd4SC1p_-d-kArzhKa4
+
 
 Space ID -
 Access Token -
